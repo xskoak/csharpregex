@@ -1,0 +1,5 @@
+/home/xskoak/gitstuff/csharpregex/Csharpregex/Csharpregex/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/xskoak/gitstuff/csharpregex/Csharpregex/Csharpregex/bin/Debug/Csharpregex.exe.mdb
+/home/xskoak/gitstuff/csharpregex/Csharpregex/Csharpregex/bin/Debug/Csharpregex.exe
+/home/xskoak/gitstuff/csharpregex/Csharpregex/Csharpregex/obj/x86/Debug/Csharpregex.exe
+/home/xskoak/gitstuff/csharpregex/Csharpregex/Csharpregex/obj/x86/Debug/Csharpregex.exe.mdb

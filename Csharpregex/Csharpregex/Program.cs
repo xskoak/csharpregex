@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Csharpregex
 {
@@ -6,7 +7,9 @@ namespace Csharpregex
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			string teststring = "1.200.200.3";
+			string resultstring;
+			resultstring = Regex.Replace (teststring, @"\.\*", "");
 		}
 	}
 }
